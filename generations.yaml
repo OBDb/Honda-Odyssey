@@ -1,0 +1,25 @@
+generations:
+  - name: "First Generation"
+    start_year: 1994
+    end_year: 1998
+    description: "The original Honda Odyssey was notably different from later generations, featuring a compact design with conventional hinged rear doors rather than sliding doors. Built on an Accord platform, it combined car-like handling with minivan versatility. The interior featured three rows of seats with a unique fold-down third row that disappeared into the floor—an innovation later adopted by many competitors. Powered by a 2.2L four-cylinder engine producing 140 HP paired with a four-speed automatic transmission, it emphasized efficiency over power. This generation established the Odyssey as a practical family vehicle with Honda's reputation for reliability, though its smaller dimensions and car-like doors limited its appeal compared to more traditional minivans."
+
+  - name: "Second Generation"
+    start_year: 1999
+    end_year: 2004
+    description: "The second-generation Odyssey represented a complete redesign that transformed it into a full-size minivan with sliding rear doors. Significantly larger than its predecessor, it competed directly with established minivans like the Dodge Caravan and Toyota Sienna. Powered by a 3.5L V6 engine producing 210 HP (later increased to 240 HP) paired with a four-speed automatic transmission, it offered competitive performance for its class. The interior featured three rows with a third-row 'Magic Seat' that could fold flat into the floor, plus innovative features like a removable center console and navigation system on higher trims. This generation established the Odyssey as a top contender in the minivan segment, winning numerous awards for its combination of practicality, quality, and driving dynamics."
+
+  - name: "Third Generation"
+    start_year: 2005
+    end_year: 2010
+    description: "The third-generation Odyssey featured evolutionary styling changes with a sleeker, more aerodynamic profile. Slightly larger than its predecessor, it offered enhanced interior space and flexibility. Powered by an improved 3.5L V6 engine producing 244 HP (later increased to 255 HP), paired with a five-speed automatic transmission, it maintained good performance while improving fuel efficiency through Variable Cylinder Management on certain trims. The interior featured available eight-passenger seating with a removable center seat in the second row, plus a more sophisticated 'Magic Seat' third row. New features included power sliding doors, a power tailgate, and expanded safety technology. This generation further refined the Odyssey's formula, maintaining its position as a benchmark in the increasingly competitive minivan segment."
+
+  - name: "Fourth Generation"
+    start_year: 2011
+    end_year: 2017
+    description: "The fourth-generation Odyssey featured more distinctive styling with a 'lightning bolt' belt line that added visual interest to the traditional minivan shape. Powered by an enhanced 3.5L V6 producing 248 HP paired with either a five-speed or six-speed automatic transmission (depending on trim level), it offered a good balance of performance and efficiency. The interior introduced new innovations including a 'Wide Mode' second row that could expand outward to accommodate three child seats side-by-side, a 'Cool Box' for refrigerating beverages, and an available HondaVAC built-in vacuum cleaner. Technology advanced with features like an 8-inch touchscreen, blind spot monitoring, and forward collision warning on higher trims. This generation maintained the Odyssey's reputation for driving enjoyment while adding more family-friendly features to compete in the evolving minivan market."
+
+  - name: "Fifth Generation"
+    start_year: 2018
+    end_year: null
+    description: "The current Odyssey features more sophisticated styling with a floating roof design and distinct character lines. Powered by an enhanced 3.5L V6 producing 280 HP, initially paired with a nine-speed automatic transmission and later standardized to a ten-speed, it offers refined performance with reasonable efficiency. The interior introduces further innovations including 'Magic Slide' second-row seats that can move sideways for multiple configurations, CabinWatch and CabinTalk systems that allow monitoring and communication with rear passengers, and expanded connectivity options. Technology has advanced significantly with features like a Digital Key, wireless phone charging, and the comprehensive Honda Sensing safety suite as standard equipment. A refresh in 2021 updated the styling and features, adding a more powerful infotainment system and additional safety technology. This generation continues the Odyssey's focus on family-friendly innovation while providing car-like handling that has long differentiated it from competitors, maintaining its position as a top choice in the minivan segment despite declining overall minivan sales in favor of SUVs."
