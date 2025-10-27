@@ -45,6 +45,6 @@ supported_commands_by_ecu:
   - 0167:ECT_1,ECT_1_SUP,ECT_2,ECT_2_SUP
 unsupported_commands_by_ecu:
   "DA11":
-  - DA11.11.222666:HONDA_EOL,HONDA_EOT
+  - DA11.000011.222666
   "DA1D":
   - DA1D.222221|fc=1:HONDA_GEAR
