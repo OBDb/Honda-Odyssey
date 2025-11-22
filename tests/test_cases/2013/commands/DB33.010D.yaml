@@ -11,3 +11,18 @@ test_cases:
   response: |-
     18DAF11D03410D00
     18DAF11103410D00
+- expected_values:
+    VSS: 10
+  response: 18DAF11D03410D0A
+- expected_values:
+    VSS: 18
+  response: 18DAF11D03410D12
+- expected_values:
+    VSS: 32
+  response: 18DAF11D03410D20
+- expected_values:
+    VSS: 38
+  response: 18DAF11D03410D26
+- expected_values:
+    VSS: 55
+  response: 18DAF11D03410D37
