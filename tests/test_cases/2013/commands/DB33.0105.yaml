@@ -9,13 +9,13 @@ test_cases:
     ECT: 49
   response: 18DAF11103410559
 - expected_values:
-    ECT: 32
+    ECT: 14
   response: |-
-    18DAF11D03410548
-    18DAF11103410548
+    18DAF11D03410536
+    18DAF11103410536
 - expected_values:
-    ECT: 38
-  response: 18DAF11D0341054E
+    ECT: 24
+  response: 18DAF11D03410540
 - expected_values:
     ECT: 65
   response: 18DAF11D03410569
