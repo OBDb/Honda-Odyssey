@@ -1,12 +1,17 @@
 command_id: DB33.010D
 test_cases:
 - expected_values:
-    VSS: 2
+    VSS: 0
   response: |-
-    18DAF11003410D02
-    18DAF11E03410D02
+    18DAF11003410D00
+    18DAF11E03410D00
 - expected_values:
-    VSS: 25
+    VSS: 55
   response: |-
-    18DAF11003410D19
-    18DAF11E03410D19
+    18DAF11003410D36
+    18DAF11E03410D37
+- expected_values:
+    VSS: 58
+  response: |-
+    18DAF11003410D3A
+    18DAF11E03410D3A
