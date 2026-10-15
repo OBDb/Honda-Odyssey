@@ -116,7 +116,7 @@
     {"id": "ODYSSEY_EOT_VAR_3", "path": "Engine", "fmt": {"bix": 88,  "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Engine oil temperature, variant 3"},
     {"id": "ODYSSEY_EOT_VAR_4", "path": "Engine", "fmt": {"bix": 112, "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Engine oil temperature, variant 4"}
   ]},
-{ "hdr": "DA11", "rax": "11", "dbg": true, "cmd": {"22": "2610"}, "freq": 1, "filter": { "to": 2017 },
+{ "hdr": "DA11", "rax": "11", "cmd": {"22": "2610"}, "freq": 1, "filter": { "to": 2017 }, "dbgfilter": { "to": 2012, "from": 2014 },
   "signals": [
     {"id": "ODYSSEY_GENERATOR_DA11",         "path": "Engine", "fmt": {"bix": 184, "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Generator"},
     {"id": "ODYSSEY_AIR_CONDITIONER_CLUTCH", "path": "Engine", "fmt": {"bix": 262, "len": 1, "max": 1,                           "unit": "offon"   }, "name": "Air conditioner clutch"}
@@ -138,7 +138,7 @@
     {"id": "ODYSSEY_KNOCK_CONTROL_V2", "path": "Engine", "fmt": {"bix": 80,  "len": 8, "max": 1.99, "mul": 1.99, "div": 255, "unit": "scalar"  }, "name": "Knock control"},
     {"id": "ODYSSEY_VTC_DUTY_DA11",    "path": "Engine", "fmt": {"bix": 224, "len": 8, "max": 100,  "mul": 100,  "div": 255, "unit": "percent" }, "name": "Variable timing control duty"}
   ]},
-{ "hdr": "DA11", "rax": "11", "dbg": true, "cmd": {"22": "2663"}, "freq": 1, "filter": { "to": 2017 },
+{ "hdr": "DA11", "rax": "11", "cmd": {"22": "2663"}, "freq": 1, "filter": { "to": 2017 }, "dbgfilter": { "to": 2012, "from": 2014 },
   "signals": [
     {"id": "ODYSSEY_MISFIRE_COUNT_1_VAR_3", "path": "Engine", "fmt": {"bix": 160, "len": 16, "max": 65535, "unit": "scalar" }, "name": "Misfire count #1, variant 3"},
     {"id": "ODYSSEY_MISFIRE_COUNT_2_VAR_3", "path": "Engine", "fmt": {"bix": 176, "len": 16, "max": 65535, "unit": "scalar" }, "name": "Misfire count #2, variant 3"},
@@ -159,7 +159,7 @@
     {"id": "ODYSSEY_EOT_VAR_1", "path": "Engine", "fmt": {"bix": 88,  "len": 8, "max": 215,   "min": -40,           "add": -40, "unit": "celsius"     }, "name": "Engine oil temperature, variant 1"},
     {"id": "ODYSSEY_EOT_VAR_2", "path": "Engine", "fmt": {"bix": 112, "len": 8, "max": 215,   "min": -40,           "add": -40, "unit": "celsius"     }, "name": "Engine oil temperature, variant 2"}
   ]},
-{ "hdr": "DA11", "rax": "11", "dbg": true, "cmd": {"22": "266C"}, "freq": 1, "filter": { "to": 2017 },
+{ "hdr": "DA11", "rax": "11", "cmd": {"22": "266C"}, "freq": 1, "filter": { "to": 2017 }, "dbgfilter": { "to": 2012, "from": 2014 },
   "signals": [
     {"id": "ODYSSEY_MISFIRE_COUNT_1_VAR_1", "path": "Engine", "fmt": {"bix": 48, "len": 8, "max": 255, "unit": "scalar" }, "name": "Misfire count #1, variant 1"},
     {"id": "ODYSSEY_MISFIRE_COUNT_2_VAR_1", "path": "Engine", "fmt": {"bix": 56, "len": 8, "max": 255, "unit": "scalar" }, "name": "Misfire count #2, variant 1"},
