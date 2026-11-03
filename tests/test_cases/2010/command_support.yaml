@@ -49,6 +49,7 @@ supported_commands_by_ecu:
   - 0147:TP_B
   - 0149:APP_D
   - 014A:APP_E
+  - 014C:TAC_PCT
 unsupported_commands_by_ecu:
   "DA10":
   - DA10.000010.222610
