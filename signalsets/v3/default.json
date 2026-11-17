@@ -122,7 +122,7 @@
     {"id": "ODYSSEY_GENERATOR_DA11",         "path": "Engine", "fmt": {"bix": 184, "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Generator"},
     {"id": "ODYSSEY_AIR_CONDITIONER_CLUTCH", "path": "Engine", "fmt": {"bix": 262, "len": 1, "max": 1,                           "unit": "offon"   }, "name": "Air conditioner clutch"}
   ]},
-{ "hdr": "DA11", "rax": "11", "cmd": {"22": "2611"}, "freq": 5, "filter": { "to": 2017 }, "dbgfilter": { "to": 2009, "years": [2012], "from": 2016 },
+{ "hdr": "DA11", "rax": "11", "cmd": {"22": "2611"}, "freq": 5, "filter": { "to": 2017 }, "dbgfilter": { "to": 2010, "years": [2012], "from": 2016 },
   "signals": [
     {"id": "ODYSSEY_AIRGAS_RATIO_V2", "path": "Engine", "fmt": {"bix": 64, "len": 16, "max": 29.4, "mul": 29.4, "div": 65535, "nullmax": 29.4, "unit": "scalar" }, "name": "Air/gas ratio"}
   ]},
